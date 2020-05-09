@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Covid-19 App
+
+This React.js app showcases information regarding the Covid-19 pandemic. As default, it displays the number of global confirmed cases, recoveries and deaths. Users are able to pick countries as well and view their respective statistics.
+
+# What I Learned
+
+- Working with React.js
+- React import functions
+- Using API's
+
 ## Available Scripts
 
 In the project directory, you can run:
