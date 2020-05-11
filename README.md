@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This React.js app showcases information regarding the Covid-19 pandemic. As default, it displays the number of global confirmed cases, recoveries and deaths. Users are able to pick countries as well and view their respective statistics.
 
-View my app here: https://christiaan-venter-covid-tracker.netlify.app
+View my app on Netlify: https://christiaan-venter-covid-tracker.netlify.app
 
 # What I Learned
 
